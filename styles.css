@@ -1,18 +1,19 @@
 .container {
   width: 70%;
   margin: auto;
-  text-align: right;
+  text-align: center;
 }
 
 .dice {
-  text-align:right;
+  text-align:center;
   display: inline-block;
 
 }
 
 body {
-    /* background-color: #393E46;    */
-   background: url('/newbg.jpg') no-repeat center center/cover; 
+     background-color: #393E46;  
+  
+/*    background: url('/newbg.jpg') no-repeat center center/cover;  */
   /* z-index: 1; */
 }
 
